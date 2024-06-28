@@ -1,0 +1,4 @@
+name: gigacraft-core
+version: '${version}'
+main: dev.grafjojo.gigacraftcore.GigaCore
+api-version: '1.20'
